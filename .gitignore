@@ -1,0 +1,13 @@
+# Python 运行缓存
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Agent 运行时生成的测试产物（避免污染仓库）
+seminar_pack/
+
+# 系统及编辑器文件
+.DS_Store
+.vscode/
+.idea/
